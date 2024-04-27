@@ -49,7 +49,7 @@ header {
 }
 .my-failures{
     display: flex;
-    align-items: center;
+    align-items: center; 
     margin: 150px 200px;
     color: #444343;
 }
@@ -68,8 +68,33 @@ ul{
 
 .list-item{
     list-style: none;
+    margin-bottom: 5px;
 }
 .check-icon{
     width: 15px;
     padding-right: 5px;
+}
+
+/* My Plans */
+.my-plans{
+    margin: 100px;
+}
+.plan-heading{
+    font-size: 40px;
+    font-family: "Work Sans", sans-serif;
+    margin-bottom:45px;
+    color: #151414;
+    text-align: center;
+}
+
+.plans-container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.plan-title{
+    font-family: "Work Sans", sans-serif;
+    margin: 10px 0;
 }
