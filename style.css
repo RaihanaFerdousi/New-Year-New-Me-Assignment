@@ -9,7 +9,7 @@ main{
 }
 /* header */
 header {
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("https://i.ibb.co/J5NMNQb/banner3.png");
     background-repeat: no-repeat; 
     width: 100%; 
     height: 682px; 
@@ -102,8 +102,8 @@ ul{
 /* Awlays keep a positive mindset */
 .positive-container{
     background-repeat: no-repeat;
-    background-image: url('./images/watch.png');
-    background: url('/images/gradient1.png') no-repeat, url('./images/watch.png') no-repeat;
+    background-image: url('https://i.ibb.co/QM5ZjSq/watch.png');
+    background: url('https://i.ibb.co/3pcX8bv/gradient1.png') no-repeat, url('https://i.ibb.co/QM5ZjSq/watch.png') no-repeat;
     padding: 50px;
     margin-bottom: 80px;
 }
